@@ -1,8 +1,8 @@
 /*	Author: Zion Gutierrez, zguti001
  *      Partner(s) Name: none
  *	Lab Section: 023
- *	Assignment: Lab #4 Exercise #2
- *	Exercise Description: INCREMENTER AND DECREMENTER 
+ *	Assignment: Lab #4 Exercise #3
+ *	Exercise Description: FESTIVE LIGHTS CHALLENGE 
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
